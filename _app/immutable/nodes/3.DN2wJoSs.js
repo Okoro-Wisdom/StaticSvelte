@@ -1,0 +1,1 @@
+import{f as a,a as p}from"../chunks/C1fjiS0B.js";import"../chunks/BIUmOpKY.js";import{n as t}from"../chunks/DUijmhlk.js";var m=a("<h1>About page</h1> <p>Sono Okoro Wisdom</p>",1);function i(o){var r=m();t(2),p(o,r)}export{i as component};
